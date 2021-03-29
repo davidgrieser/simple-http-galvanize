@@ -8,5 +8,5 @@ Simple Example project that uses node to stand up an HTTP server.
 
 ## Run
 
-`docker -p 8080:8080 simple-http-galvanize`
+`docker run -p 8080:8080 simple-http-galvanize`
 
