@@ -12,11 +12,20 @@ Simple Example project that uses node to stand up an HTTP server.
 
 ## Check
 
-localhost:8080
+[http://localhost:8080](http://localhost:8080)
 
 ## Logs
 
 `docker logs http_hello`
+
+## List Containers
+
+### Running
+
+`docker ps`
+
+### All
+`docker ps -a`
 
 ## Stop
 
